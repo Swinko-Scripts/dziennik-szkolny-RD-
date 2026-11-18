@@ -4,6 +4,8 @@ Desktopowy dziennik szkolny dla Windows, oparty na Pythonie, CustomTkinter i SQL
 
 ## Uruchomienie
 
+pobierz cały zip i go rospakuj
+
 Zainstaluj Python 3.10 lub nowszy, a następnie w katalogu projektu uruchom:
 
 ```powershell
